@@ -87,20 +87,3 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
-
-
-### Web ###
-*.asp
-*.cer
-*.csr
-*.css
-*.htm
-*.html
-*.js
-*.jsp
-*.php
-*.rss
-*.xhtml
-
-# End of https://www.gitignore.io/api/web,node,macos
